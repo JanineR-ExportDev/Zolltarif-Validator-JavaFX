@@ -20,6 +20,7 @@ Ein modernes JavaFX-Tool zur schnellen Validierung und Kategorisierung von Zollt
 
 [⬇️ Lade die ZolltarifValidator.jar hier herunter](ZolltarifValidator.jar)
 
+
 ![Vorschau der App](screenshot.png)
 
 ---
