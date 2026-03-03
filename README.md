@@ -17,6 +17,7 @@ Ein modernes JavaFX-Tool zur schnellen Validierung und Kategorisierung von Zollt
 1. Klone das Repository oder lade die `.jar` Datei herunter.
 2. Stelle sicher, dass Java 21+ installiert ist.
 3. Starte die Anwendung über die Konsole oder per Doppelklick:
+
 [⬇️ Lade die ZolltarifValidator.jar hier herunter](ZolltarifValidator.jar)
 
 ![Vorschau der App](screenshot.png)
